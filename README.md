@@ -1,9 +1,12 @@
-<h1 align="center">Hi 👋, I'm Ajit Raghav</h1>
 
-<h3 align="center">DevOps Engineer | Azure Cloud | Terraform | Docker | Kubernetes</h3>
+<h1 align="center">🚀 Hi 👋, I'm Ajit Raghav 🚀</h1>
+
+<h3 align="center">☁️ Azure Cloud | 🏗️ Terraform | 🐳 Docker | ☸️ AKS | 🔄 CI/CD</h3>
+
+<p align="center">✨ Building Secure, Scalable & Automated Cloud Infrastructure ✨</p>
 
 <p align="center">
-Building secure, scalable and automated cloud infrastructure 🚀
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=650&lines=DevOps+Engineer;Azure+Cloud+Enthusiast;Terraform+%7C+Docker+%7C+AKS;CI%2FCD+Automation+Engineer" />
 </p>
 
 ---
