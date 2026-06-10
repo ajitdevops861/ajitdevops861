@@ -1,5 +1,5 @@
 
-<h1 align="center">🚀 Hi 👋, I'm Ajit Raghav 🚀</h1>
+<h1 align="center">🚀 Hi 👋, I'm Tamanna srivastava 🚀</h1>
 
 <h3 align="center">☁️ Azure Cloud | 🏗️ Terraform | 🐳 Docker | ☸️ AKS | 🔄 CI/CD</h3>
 
